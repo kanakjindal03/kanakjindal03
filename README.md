@@ -25,9 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanakjindal03&show_icons=true&locale=en" alt="kanakjindal03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakjindal03&" alt="kanakjindal03" /></p>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanak Jindal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KanakJindal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
