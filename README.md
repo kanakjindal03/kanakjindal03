@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakjindal03&label=Profile%20views&color=0e75b6&style=flat" alt="kanakjindal03" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **front end development**
-
 - 📫 How to reach me **jindalkanak46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
