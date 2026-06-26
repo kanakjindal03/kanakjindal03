@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanak Jindal</h1>
-<h3 align="center">A front end developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakjindal03&label=Profile%20views&color=0e75b6&style=flat" alt="kanakjindal03" /> </p>
 
@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanakjindal03&show_icons=true&locale=en&layout=compact" alt="kanakjindal03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanakjindal03&show_icons=true&locale=en" alt="kanakjindal03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakjindal03&" alt="kanakjindal03" /></p>
